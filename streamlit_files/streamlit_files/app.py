@@ -477,7 +477,7 @@ elif page == "📧 Contact":
         <div class='research-box'>
         <h3>📬 Contact Information</h3>
         <p style='font-size: 1.1em;'>
-        <strong>📧 Email:</strong> jabulile.lubisi@ump.ac.za<br><br>
+        <strong>📧 Email:</strong> lubisijabulile@gmail.com<br><br>
         <strong>🏛️ University:</strong> University of Mpumalanga<br><br>
         <strong>🎓 Department:</strong> Computer Science & Information Systems<br><br>
         <strong>🔬 Research Focus:</strong> Data Science & Cybersecurity<br><br>
@@ -494,11 +494,10 @@ elif page == "📧 Contact":
         <div class='research-box'>
         <h3>🌐 Follow My Work</h3>
         <p style='font-size: 1.1em;'>
-        <strong>💼 LinkedIn:</strong> <a href='#'>linkedin.com/in/jabulile-lubisi</a><br><br>
-        <strong>💻 GitHub:</strong> <a href='#'>github.com/jabulile-lubisi</a><br><br>
-        <strong>📚 ResearchGate:</strong> <a href='#'>researchgate.net/profile/Jabulile-Lubisi</a><br><br>
-        <strong>🎓 Google Scholar:</strong> <a href='#'>Scholar Profile</a><br><br>
-        <strong>🐦 Twitter:</strong> <a href='#'>@JabulileLubisi</a>
+        <strong>💼 LinkedIn:</strong> <a href='https://www.linkedin.com/in/jabulile-ingrith-lubisi-b11148209/' target='_blank'>linkedin.com/in/jabulile-ingrith-lubisi</a><br><br>
+        <strong>💻 GitHub:</strong> <a href='https://github.com/Jabu218' target='_blank'>github.com/Jabu218</a><br><br>
+        <strong>📧 Email:</strong> <a href='mailto:lubisijabulile@gmail.com'>lubisijabulile@gmail.com</a><br><br>
+        <strong>🎓 University Email:</strong> <a href='mailto:jabulile.lubisi@ump.ac.za'>jabulile.lubisi@ump.ac.za</a>
         </p>
         </div>
         """, unsafe_allow_html=True)
